@@ -496,7 +496,7 @@ a.hoverline:hover {
 }
 
 .card.large .card-content p {
-  color: brown;
+  color: inherit;
   margin: 0;
   padding: 30px 0;
 }
@@ -553,7 +553,7 @@ small {
 }
 
 /* .teal-text {
-  color: #0b5e86 !important;
+  color: #E18000 !important;
 } */
 
 /* .teal */
